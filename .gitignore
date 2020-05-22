@@ -140,3 +140,5 @@ cython_debug/
 # Test files
 static/mail
 static/package.json
+appforms.py
+session.py
