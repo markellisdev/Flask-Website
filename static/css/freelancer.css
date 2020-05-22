@@ -21,6 +21,10 @@ a.active {
   color: #eeab39;
   outline: none;
 }
+a.alternate-link {
+  color: darkred;
+  outline: none;
+}
 h1,
 h2,
 h3,
