@@ -6,6 +6,13 @@ After I successfully got this working locally, I decided to deploy remotely. I s
 
 NOTE: For now, the Contact form has no way of working, so I'd like to eventually troubleshoot that issue...... but it's not really a priority since I only set out to prove concepts and improve my skills.... not build a fully funtioning website.
 
+## References/Resources Used
+For Zappa/Lambda deployment, I relied mainly on this article, [Deploy a Serverless Web App on AWS Lambda with Zappa](https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html)
+
+For Zappa reference, [the repo](https://github.com/Miserlou/Zappa) is most helpful.
+
+For an AWS policy of least privilege, [this one](https://github.com/Miserlou/Zappa/issues/244#issuecomment-632490490) worked for me.
+
 ## Copyright and License
 
 Copyright ©2016-2020 Mark Ellis Development and Consulting.
